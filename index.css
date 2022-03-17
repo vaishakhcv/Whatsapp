@@ -1,0 +1,273 @@
+body
+{
+    margin: 0;
+    
+    font-family: Roboto, Helvetica Neue, Helvetica, Arial, sans-serif;
+}
+.main
+{
+    height: 100%;
+    width: 100%;
+   
+}
+.header
+{
+    
+    color: white;
+    background: #128c7e ;
+    height: auto;
+    width: 100%;
+    font-weight: 550;
+    font-size: 13px;
+    min-height: 74px;
+    max-height: 84px;
+    position: fixed;
+}
+.top-logo
+{
+    padding-left: 3.25%;
+    padding-top: 17px;
+    padding-right: 12%;
+    float: left
+}
+.header-links
+{
+    float: left;
+ padding-top:29px ;
+ padding-right: 6%;
+ text-decoration: none;
+}
+.wwb-link
+{
+    text-decoration: none;
+    color: white;
+}
+.globe
+{
+    height: 15px;
+    width: 15px;
+}
+.globe-link
+{   
+    padding-left: 1%;
+    padding-top:29px ;
+ text-decoration: none;
+    float: left;
+}
+.mid
+{   padding-top: 8%;
+    margin: auto;
+    width: 50%;
+    min-width: 730px;
+    display: flex;
+}
+.left
+{   
+    width: 50%;
+    margin-top: 14%;
+}
+.simple
+{
+    line-height: 42px;
+    font-size: 33px;
+}
+.discription
+{
+    font-size: 18px;
+    line-height: 27px;
+}
+.note
+{
+    color: #5E5E5E;
+    font-size: 15px;
+}
+.right
+{
+    width: 50%;
+    float: left;
+
+}
+.phone
+{
+    height: 570px;
+    width: auto;
+    margin-top: 15%;
+    margin-left: 19%;
+}
+.texts
+{  
+    padding-top: auto;
+    width: 79%;
+    margin: auto;
+    min-width: 1000px;
+}
+.android
+{
+    text-decoration: none;
+    height: 14px;
+    color: #128c7e;
+    padding-right: 10px;
+    font-weight: 400px;
+    font-size: 17px;
+}
+.list
+{
+    line-height: 42px;
+}
+.more
+{   
+    margin-top: 80px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+    height:300px;
+    max-width : 1440px;
+}
+.dis-left
+{
+    padding-top: 45px;
+background : #D8E8EA ;
+width: auto;
+max-width: 48%;
+float: left;
+margin-right: 12px;
+text-align: center;
+}
+.h2
+{
+    font-size: 30px;
+    line-height: 68px
+}
+.dis-right
+{   
+    padding-top: 45px;
+    margin-left: 25px;
+    background: #E7F0E4;
+    width: 49%;
+    float: right;
+    margin-left: 12px;
+    text-align: center;
+    padding-bottom: 120px;
+}
+.image
+{
+margin-top: 39px;
+margin-bottom: 34px;
+}
+.para
+{   
+    padding-left: 10%;
+    padding-right: 10%;
+    font-size: 18px;
+    line-height: 26px;
+    font-weight: 100;
+}
+.para1
+{   
+    padding-left: 10%;
+    padding-right: 10%;
+    font-size: 18px;
+    line-height: 26px;
+    font-weight: 100;
+    padding-bottom: 33px;
+}
+.phone2
+{
+    padding-top: 100px;
+    height: auto;
+    width: 55%;
+}
+.security
+{
+    padding-top: 7px;
+    font-weight:750 ;
+    line-height: 20px;
+    padding-bottom: 30px;
+}
+.h4
+{
+    color: #5E5E5E;
+}
+.explore
+{
+    width: 100%;
+    height: auto;
+    margin-top: 50px;
+    margin-bottom: 65px;
+    text-align: center;
+    float: left;
+}
+.footer
+{
+   padding-left: 7%;
+    width: 93%;
+    float: left;
+    height: 340px;
+    background:#2d394b ;
+}
+.foot-content
+{
+    padding-top: 2%;
+    float: left;
+    width: 70%;
+    min-width: 730px;
+    display: flex;
+    padding-left: 17% ;
+}
+.wts-head
+{
+    font-weight: 700;
+    line-height: 26px;
+    letter-spacing: 1.7px;
+    color: #F0F4F9;
+    padding-bottom: 13px;
+}
+.foot-links
+{
+    color: white;
+    text-decoration: none;
+    line-height: 13px;
+    font-weight: 500;
+    letter-spacing: 1.5px;
+}
+h4 {
+    display: block;
+    margin-block-start: 12px;
+    margin-block-end: 9px;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+}
+.whatsapp
+{
+    margin-right: 15%;
+}
+.end
+{
+    text-align: center;
+    float: left;
+    color: white;
+    height: 30px;
+    width: 100%;
+    background: #1c1e21;
+    padding-top: 3%;
+}
+.first
+{
+    float: left;
+    line-height: 0%;
+    font-size: large;
+    font-weight: 500;
+    padding-left: 20px;
+}
+.second
+{
+    float: right;
+    line-height: 0%;
+    font-size: large;
+    font-weight: 500;
+    padding-right: 20px;
+}
+h5{
+    margin-block-start: 13px;
+    margin-block-end: 10px;
+}
